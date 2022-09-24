@@ -1,0 +1,63 @@
+.imgwids {
+  width: 100%;
+  
+}
+
+#card1 {
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+ 
+}
+
+#card1bottom{
+  border-width: 1px;
+  border-style: solid;
+  border-color: gainsboro;
+}
+#card2 {
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+ 
+}
+
+#card2bottom{
+  border-width: 1px;
+  border-style: solid;
+  border-color: gainsboro;
+}
+
+#card3 {
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  
+}
+
+#card3bottom{
+  border-width: 1px;
+  border-style: solid;
+  border-color: gainsboro;
+}
+
+
+h2 {
+  color: #555656;
+}
+
+p {
+  color: #979794;
+}
